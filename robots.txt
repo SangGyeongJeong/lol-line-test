@@ -1,2 +1,3 @@
 User-agent: *
 Allow:/
+Sitemap: https://lol-line-facetest.netlify.app/sitemap.xml
